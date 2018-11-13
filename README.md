@@ -1,2 +1,4 @@
 # hello-world
-Just getting started
+Just getting
+
+Hey, my name is Kevin and I am just starting to code and am thus currently trying to explore new tools for group projects.
